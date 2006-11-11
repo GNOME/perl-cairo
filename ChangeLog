@@ -1,5 +1,9 @@
 2006-11-11	tsch
 
+	* Cairo.pm, NEWS, README: Brown paper bag release 1.021.
+
+2006-11-11	tsch
+
 	* t/CairoSurface.t: Skip content tests on old cairo's.
 
 2006-11-09	tsch
