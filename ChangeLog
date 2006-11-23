@@ -1,3 +1,11 @@
+2006-11-23	tsch
+
+	Merge from HEAD:
+
+	* CairoSurface.xs, t/CairoSurface.t: Make
+	Cairo::ImageSurface::get_data usable by specifying the buffer
+	length.
+
 2006-11-11	tsch
 
 	* Cairo.pm, NEWS, README: Brown paper bag release 1.021.
