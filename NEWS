@@ -1,3 +1,8 @@
+Overview of changes in Cairo 1.023
+==================================
+
+* Fix a test failure related to endianness.
+
 Overview of changes in Cairo 1.022
 ==================================
 
