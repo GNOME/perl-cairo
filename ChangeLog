@@ -1,5 +1,10 @@
 2007-11-20  Torsten Schoenfeld  <kaffeetisch@gmx.de>
 
+	* Cairo.pm
+	* NEWS: Stable release 1.044.
+
+2007-11-20  Torsten Schoenfeld  <kaffeetisch@gmx.de>
+
 	Merge from HEAD:
 
 	* Cairo.pm: Add entries for the various surfaces to the API
