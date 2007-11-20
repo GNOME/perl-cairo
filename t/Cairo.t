@@ -13,15 +13,12 @@ use warnings;
 use Test::More tests => 68;
 
 unless (eval 'use Test::Number::Delta; 1;') {
-	*delta_ok = sub {
-        	ok(1, 'Fake delta_ok');
-	}
+	my $reason = 'Test::Number::Delta not available';
+	*delta_ok = sub { SKIP: { skip $reason, 1 } };
 }
 
-use constant {
-	IMG_WIDTH => 256,
-	IMG_HEIGHT => 256,
-};
+use constant IMG_WIDTH => 256;
+use constant IMG_HEIGHT => 256;
 
 BEGIN {
 	use_ok ('Cairo');
