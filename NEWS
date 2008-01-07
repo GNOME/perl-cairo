@@ -1,3 +1,8 @@
+Overview of changes in Cairo 1.045
+==================================
+
+* Fix memory allocation errors on win32.  [T.J. Ferraro]
+
 Overview of changes in Cairo 1.044
 ==================================
 

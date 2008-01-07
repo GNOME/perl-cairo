@@ -1,3 +1,8 @@
+2008-01-07  Torsten Schoenfeld  <kaffeetisch@gmx.de>
+
+	* Cairo.pm
+	* NEWS: Stable release 1.045.
+
 2007-12-29  Torsten Schoenfeld  <kaffeetisch@gmx.de>
 
 	Merge from HEAD:

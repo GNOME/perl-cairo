@@ -14,7 +14,7 @@ use DynaLoader;
 
 our @ISA = qw/DynaLoader/;
 
-our $VERSION = '1.044';
+our $VERSION = '1.045';
 
 sub dl_load_flags { $^O eq 'darwin' ? 0x00 : 0x01 }
 
@@ -49,7 +49,7 @@ Cairo - Perl interface to the cairo library
 
   $cr->show_page;
 
-  $surface->write_to_png ("output.png");
+  $surface->write_to_png ('output.png');
 
 =head1 ABSTRACT
 
