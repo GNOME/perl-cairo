@@ -1370,9 +1370,9 @@ from a file:
 
 =back
 
-=head4 @versions = $surface->get_versions [1.2]
+=head4 @versions = Cairo::SvgSurface::get_versions [1.2]
 
-=head4 $string = $surface->version_to_string ($version) [1.2]
+=head4 $string = Cairo::SvgSurface::version_to_string ($version) [1.2]
 
 =over
 

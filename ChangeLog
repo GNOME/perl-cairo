@@ -1,3 +1,10 @@
+2008-02-10  Torsten Schoenfeld  <kaffeetisch@gmx.de>
+
+	Merge from HEAD:
+
+	* Cairo.pm: Fix POD for Cairo::SvgSurface::get_versions and
+	version_to_string.
+
 2008-01-07  Torsten Schoenfeld  <kaffeetisch@gmx.de>
 
 	* Cairo.pm
