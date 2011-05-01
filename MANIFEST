@@ -24,6 +24,8 @@ examples/png/stars.pl
 examples/png/text-rotate.pl
 examples/png/text.pl
 examples/simple.pl
+examples/snapping.pl
+examples/subclassing.pl
 inc/MakeHelper.pm
 lib/Cairo.pm
 LICENSE
@@ -31,6 +33,7 @@ Makefile.PL
 MANIFEST
 MANIFEST.SKIP
 NEWS
+perl-Cairo.doap
 ppport.h
 README
 t/Cairo.t
