@@ -55,8 +55,8 @@ Mailing list archives:  https://mail.gnome.org/archives/gtk-perl-list/
 IRC:                    irc://irc.gnome.org/#gtk-perl
 E-mail bug submission via CPAN's RT:
                 bug-Cairo [at] rt.cpan.org
-Web bug submission via gnome.org's bugzilla:
-                http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-perl
+Web bug submission via GNOME's bugtracker:
+                https://gitlab.gnome.org/GNOME/perl-cairo/-/issues
 
 Please do not contact any of the maintainers directly unless they ask you to.
 The first point of contact for questions/problems/issues should always be the
@@ -87,8 +87,8 @@ Request Tracker:
   bug-Cairo [at] rt.cpan.org
 
 Gnome's bugtracker:
-- report bugs to the 'gnome-perl' product (requires login)
-  http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-perl
+- report bugs to the 'perl-cairo' product (requires login)
+  https://gitlab.gnome.org/GNOME/perl-cairo/-/issues
 
 PATCH SUBMISSION GUIDELINES
 ---------------------------
